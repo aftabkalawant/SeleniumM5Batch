@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-18T14:10:36 IST" name="Default suite" finished-at="2025-02-18T14:10:53 IST" duration-ms="16507">
+    <groups>
+    </groups>
+    <test started-at="2025-02-18T14:10:36 IST" name="Default test" finished-at="2025-02-18T14:10:53 IST" duration-ms="16507">
+      <class name="PageObjectModel.Login">
+        <test-method signature="main()[pri:0, instance:PageObjectModel.Login@689604d9]" started-at="2025-02-18T14:10:36 IST" name="main" finished-at="2025-02-18T14:10:53 IST" duration-ms="16449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- PageObjectModel.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

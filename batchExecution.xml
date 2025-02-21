@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="3" name="Test">
+  <groups>
+      <run>
+         <exclude name="regration"></exclude>
+      </run>
+  </groups>
+    <classes>
+      <class name="TestNGclass1.Csk"/>
+      <class name="TestNGclass1.Dws"/>
+      <class name="TestNGclass1.Rcb"/>
+      <class name="TestNGclass2.Ktm"/>
+      <class name="TestNGclass2.RoyalEnfield"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
